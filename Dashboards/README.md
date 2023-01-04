@@ -5,14 +5,14 @@ Lets talk about some dashboards present in folder.
 
 1. : ABC Shoes Sales Dashboard.xlsx
 
-This Dashboard shows the 2 year Sales Data of a company, what are profits and in which states there is maximum sales,This Dashboard uses some advance features of Excel like VLOOKUP, pivot Tables , Pivot Charts.
+This Dashboard shows the 2-year Sales Data of a company, what are profits and in which states there are maximum sales, This Dashboard uses some advanced features of Excel like VLOOKUP, pivot Tables, and Pivot Charts.
 
-All data cleaning, formatting and transformation took place in excel
+All data cleaning, formatting, and transformation took place in excel
 
 
 2. : ABC Sales and Deliveries.pbix
 
 This Dashboard shows the sales and Delivery status of the Company using different charts like bars and pie and uses maps to show different sales by Region.
-All Data Collection, Cleaning, modelling and formatting all done in POWER BI. 
+All Data Collection, Cleaning, modeling, and formatting are all done in POWER BI. 
 
 This Dashboard Shows the sales insight of 4 years with help of interactive slicers.
